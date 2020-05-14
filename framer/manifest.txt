@@ -192,6 +192,8 @@ node_modules/@framer/asci.animate/code/Animate.tsx
 node_modules/@framer/asci.animate/build/index.js
 node_modules/@framer/asci.animate/README.md
 design/images/PFqZnOodP7FgeCIpQ0JUMECZdU.png
+design/images/Mh6zJ4U8stPqLdkLZU1Y5QDdla8.png
+design/images/JMisSbr1CPtuYO6THAVuKIvTFU.png
 design/images/FKUlbulI7X9ss9cHtDNaVWVN9cc.png
 design/images/5TWKpUw6i7A0gvJroIAgWeqtM.png
 design/images/4gT7NGQfxq8RPfbNc6bkon86MA.png
